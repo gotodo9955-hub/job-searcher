@@ -60,8 +60,8 @@ INDIA_LOCATIONS = [
 # ─── Email settings ───────────────────────────────────────────────────────────
 # Emails are sent FROM sender TO recipient.
 # Change these to your own addresses if needed.
-SENDER_EMAIL    = "n8nworkflow2026@gmail.com"
-RECIPIENT_EMAIL = "shaiksairohit@gmail.com"
+SENDER_EMAIL    = "xxxxxxxxx@gmail.com"
+RECIPIENT_EMAIL = "xxxxxxxxx@gmail.com"
 
 # Secrets are loaded from GitHub Actions environment variables:
 #   GMAIL_APP_PASSWORD  → Gmail app password for SENDER_EMAIL
