@@ -40,7 +40,7 @@ Add these 3 secrets:
 
 | Secret name | Value |
 |---|---|
-| `GMAIL_APP_PASSWORD` | `lugs yqjj lzqg ldvl` (your Gmail app password, spaces are fine) |
+| `GMAIL_APP_PASSWORD` | `xxxx xxxx xxxx xxxx` (your Gmail app password, spaces are fine) |
 | `TELEGRAM_BOT_TOKEN` | Your bot token from `@BotFather` (add this when ready) |
 | `TELEGRAM_CHAT_ID` | Your chat ID from `@userinfobot` (add this when ready) |
 
@@ -70,7 +70,7 @@ Add these 3 secrets:
 ### Step 5 — Watch it run
 
 After the first manual run:
-- Check your Gmail (`shaiksairohit@gmail.com`) for a digest email
+- Check your Gmail (`xxxxxxxxxxx@gmail.com`) for a digest email
 - If Telegram is set up, you'll get individual push notifications per job
 - The `data/seen_jobs.json` file in your repo will grow as jobs are tracked
 
